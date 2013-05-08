@@ -9,11 +9,11 @@ Put this line into Gemfile:
   
 == Dependencies
 This Gem (as well as the plugin) requires several dependencies:
-  * gibberish: https://github.com/SysMO-DB/gibberish.git"
-  * white_list: https://github.com/quyen/white_list.git"
-  * white_list_formatted_content: https://github.com/quyen/white_list_formatted_content.git"
-  * acts_as_list: http://rubygems.org/gems/acts_as_list
-  * will_paginate: http://rubygems.org/gems/will_paginate/ (version 2.3.16 and below for rails 2)
+* gibberish: https://github.com/SysMO-DB/gibberish.git"
+* white_list: https://github.com/quyen/white_list.git"
+* white_list_formatted_content: https://github.com/quyen/white_list_formatted_content.git"
+* acts_as_list: http://rubygems.org/gems/acts_as_list
+* will_paginate: http://rubygems.org/gems/will_paginate/ (version 2.3.16 and below for rails 2)
     
 
 = Savage Beast Plugin
