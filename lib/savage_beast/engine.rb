@@ -1,4 +1,4 @@
-Module SavageBeast
+module SavageBeast
   class Engine < ::Rails::Engine
 
   end	
