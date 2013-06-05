@@ -8,7 +8,8 @@ Rails.application.routes.draw do
 
   resources :posts, :as => "all_posts" do
     collection do
-      get :search
+      get :index, :as => "all"
+      get :search, :as => "search_all"
     end
   end
 
